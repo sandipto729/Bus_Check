@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+env/
+Pipfile.lock
+*.log
+
+.geckodriver.log
+chromedriver.exe
+chromedriver.log
